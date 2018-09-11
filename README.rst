@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShane4STER%2Fcloud-custodian.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FShane4STER%2Fcloud-custodian?ref=badge_shield)
+
 .. image:: https://badges.gitter.im/capitalone/cloud-custodian.svg
      :target: https://gitter.im/capitalone/cloud-custodian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
      :alt: Join the chat at https://gitter.im/capitalone/cloud-custodian
@@ -45,6 +47,9 @@ as a simple cron job on a server to execute against large existing fleets.
 
 
 Features
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FShane4STER%2Fcloud-custodian.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FShane4STER%2Fcloud-custodian?ref=badge_large)
+
 ########
 
 - Comprehensive support for AWS services and resources (> 100), along with
